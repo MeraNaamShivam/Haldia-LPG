@@ -31,7 +31,7 @@ const CATEGORIES = [
   'Filled Cylinder - 47.5kg (Commercial)',
   'Empty Cylinder - Returned',
   'Empty Cylinder - Defective/Rejected',
-  'LPG Bulk Stock',
+  'PT Shed Spares',
   'Valve',
   'Regulator',
   'Safety Cap / Seal Ring',
